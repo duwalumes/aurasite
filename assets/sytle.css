@@ -1,0 +1,17 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  background: #f4f4f4;
+}
+.stats {
+  display:flex;
+  justify-content:center;
+  gap:40px;
+}
+.dark {
+  background:#121212;
+  color:white;
+}
+button {
+  padding:8px 12px;
+}
